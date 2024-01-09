@@ -1,0 +1,139 @@
+ID,Name,Type,Usage,Brand,Capacity,Desc
+0,CRUCIAL 1TB PORTABLE X6 SSD (CT1000X6SSD9),SSD,External,CRUCIAL,1TB,Crucial 1TB Portable X6 SSD providing high-speed and portable storage (CT1000X6SSD9).
+1,CRUCIAL 1TB SSD BX500 2.5 (CT1000BX500SSD1),SSD,Internal,CRUCIAL,1TB,"Crucial 1TB SSD BX500 2.5"" for efficient and reliable storage in a standard form factor (CT1000BX500SSD1)."
+2,CRUCIAL 1TB X8 PORTABLE DRIVE (CT1000X8SSD9),SSD,External,CRUCIAL,1TB,Crucial 1TB X8 Portable Drive offering portable and high-capacity storage (CT1000X8SSD9).
+3,CRUCIAL 240GB SSD BX500 2.5 (CT240BX500SSD1),SSD,Internal,CRUCIAL,240GB,"Crucial 240GB SSD BX500 2.5"" providing compact and reliable storage (CT240BX500SSD1)."
+4,CRUCIAL 2TB P3 NVME (CT2000P3SSD8),SSD,Internal,CRUCIAL,2TB,Crucial 2TB P3 NVMe delivering high-speed and high-capacity storage (CT2000P3SSD8).
+5,CRUCIAL 500GB BX500 SSD,SSD,Internal,CRUCIAL,500GB,Crucial 500GB BX500 SSD for efficient and moderate-capacity storage.
+6,CRUCIAL 500GB MX500 SSD(CT500MX500SSD1),SSD,Internal,CRUCIAL,500GB,Crucial 500GB MX500 SSD delivering reliable and moderate-capacity storage (CT500MX500SSD1).
+7,CRUCIAL 500GB P3 NVME SSD (CT500P3SSD8),SSD,Internal,CRUCIAL,500GB,Crucial 500GB P3 NVMe SSD offering high-speed and compact storage (CT500P3SSD8).
+8,CRUCIAL 500GB PORTABLE X6 SSD (CT500BX6SSD9),SSD,External,CRUCIAL,500GB,Crucial 500GB Portable X6 SSD for portable and moderate-capacity storage (CT500BX6SSD9).
+9,SEAGATE 10TB ONE TOUCH HUB 3.5 (STLC10000400),SSD,External,SEAGATE,10TB,"Seagate 10TB One Touch Hub 3.5"" providing versatile and high-capacity storage (STLC10000400)."
+10,SEAGATE 12TB ONE TOUCH (STLC12000400),SSD,External,SEAGATE,12TB,Seagate 12TB One Touch offering convenient and extensive storage (STLC12000400).
+11,SEAGATE 16 TB EXPANSION (STKP16000402),SSD,External,SEAGATE,16TB,Seagate 16TB Expansion providing substantial and high-capacity storage (STKP16000402).
+12,SEAGATE 18TB ONE TOUCH HUB(STLC18000402),SSD,External,SEAGATE,18TB,Seagate 18TB One Touch Hub delivering extensive and high-capacity storage (STLC18000402).
+13,"SEAGATE 1TB EXPANSION 2.5"" HDD - STKM1000400",HDD,External,SEAGATE,1TB,"Seagate 1TB Expansion 2.5"" HDD for versatile and moderate-capacity storage (STKM1000400)."
+14,SEAGATE 1TB ONE TOUCH EXTERNAL DRIVE (STKY1000400),HDD,External,SEAGATE,1TB,Seagate 1TB One Touch External Drive offering convenient and moderate-capacity storage (STKY1000400).
+15,"SEAGATE 2TB EXPANSION 2.5"" STKM2000400",HDD,External,SEAGATE,2TB,"Seagate 2TB Expansion 2.5"" providing versatile and moderate-capacity storage (STKM2000400)."
+16,SEAGATE 2TB ONE TOUCH EXT DRIVES (STKY2000400),HDD,External,SEAGATE,2TB,Seagate 2TB One Touch External Drives delivering convenient and moderate-capacity storage (STKY2000400).
+17,SEAGATE 2TB ULTRA TOUCH Ext -STMA2000400,HDD,External,SEAGATE,2TB,Seagate 2TB Ultra Touch External Drive for convenient and moderate-capacity storage (STMA2000400).
+18,"SEAGATE 4TB EXP 2.5"" - STKM4000400",HDD,External,SEAGATE,4TB,"Seagate 4TB Expansion 2.5"" delivering substantial and moderate-capacity storage (STKM4000400)."
+19,SEAGATE 4TB ONE TOUCH EXT DRIVES 2.5 (STKZ4000400),HDD,External,SEAGATE,4TB,"Seagate 4TB One Touch External Drives 2.5"" offering convenient and moderate-capacity storage (STKZ4000400)."
+20,SEAGATE 4TB ONE TOUCH HUB EXT 3.5 (STLC4000400),HDD,External,SEAGATE,4TB,"Seagate 4TB One Touch Hub External 3.5"" providing versatile and high-capacity storage (STLC4000400)."
+21,SEAGATE 5TB ONE TOUCH EXT DRIVES 2.5 (STKZ5000400),HDD,External,SEAGATE,5TB,"Seagate 5TB One Touch External Drives 2.5"" offering convenient and high-capacity storage (STKZ5000400)."
+22,SEAGATE 6TB EXPANSION USB 3.5 (STKP6000400),HDD,External,SEAGATE,6TB,"Seagate 6TB Expansion USB 3.5"" delivering substantial and versatile storage (STKP6000400)."
+23,SEAGATE 6TB ONE TOUCH HUB 3.5 (STLC6000400),HDD,External,SEAGATE,6TB,"Seagate One Touch Hub 3.5 with 6TB storage capacity, providing a versatile and user-friendly storage solution."
+24,SEAGATE 8TB ONE TOUCH HUB STLC8000400,HDD,External,SEAGATE,8TB,Seagate One Touch Hub with 8TB capacity for convenient and high-capacity storage needs.
+25,FYBER 8CH SMPS (PS-1208),Other,External,FYBER,,Fyber 8CH SMPS (Power Supply) for efficient power management in various applications.
+26,FYBER SURGE PROTECTOR FY-SP11,Other,External,FYBER,,Fyber Surge Protector FY-SP11 for protecting electronic devices from power surges.
+27,HDD SEAGATE 4TB ENTERPRISES -ST4000NM002A,HDD,Internal,SEAGATE,4TB,Seagate 4TB Enterprise HDD for robust and reliable storage in enterprise environments.
+28,SEAGATE 10 TB ENTERPRISE - ST 10000NM017B,HDD,Internal,SEAGATE,10TB,Seagate 10TB Enterprise HDD offering high-capacity storage for enterprise applications.
+29,SEAGATE 12TB ENTERPRISE SATA ST12000NM001G,HDD,Internal,SEAGATE,12TB,Seagate 12TB Enterprise SATA HDD for extensive and reliable enterprise-level storage.
+30,SEAGATE 16 TB ENTERPRISE HDD ST16000NM000J,HDD,Internal,SEAGATE,16TB,Seagate 16TB Enterprise HDD providing ample and high-capacity storage for enterprise use.
+31,SEAGATE 8TB ENTERPRISE Hdd ST8000NM017B,HDD,Internal,SEAGATE,8TB,Seagate 8TB Enterprise HDD delivering substantial and reliable storage for enterprise applications.
+32,HDD SEAGATE 1TB SATA (ST1000DM010),HDD,Internal,SEAGATE,1TB,Seagate 1TB SATA HDD for versatile and efficient storage solutions.
+33,HDD SEAGATE 2TB SATA - ST 2000DM005,HDD,Internal,SEAGATE,2TB,Seagate 2TB SATA HDD with reliable and moderate storage capacity.
+34,HDD SEAGATE 4TB SATA -ST4000DM004,HDD,Internal,SEAGATE,4TB,Seagate 4TB SATA HDD offering substantial storage capacity for various applications.
+35,SEAGATE 2TB NAS HDD(ST2000VN003),HDD,Internal,SEAGATE,2TB,Seagate 2TB NAS HDD designed for Network Attached Storage with optimized performance.
+36,LACIE 10TB D2 PROFESSIONAL STHA10000800,HDD,External,LACIE,10TB,LaCie 10TB D2 Professional for reliable and high-capacity professional storage.
+37,LACIE 14TB D2 PROFESSIONAL C-TYPE(STHA14000800),HDD,External,LACIE,14TB,LaCie 14TB D2 Professional C-Type for extensive and professional-grade storage solutions.
+38,LACIE 2TB RUGGED USB C STFR2000800,SSD,External,LACIE,2TB,LaCie 2TB Rugged USB C for durable and portable storage with USB-C connectivity.
+39,LACIE 4TB D2 PROFESSIONAL USB STHA4000800,HDD,External,LACIE,4TB,LaCie 4TB D2 Professional USB for high-capacity and professional-grade storage.
+40,LACIE 4TB RUGGED USB 3.1/ C TYPE STFR4000800,SSD,External,LACIE,4TB,LaCie 4TB Rugged USB 3.1/C-Type for durable and portable storage with USB 3.1 and USB-C connectivity.
+41,LACIE 8TB D2 PROFESSIONAL STHA8000800,HDD,External,LACIE,8TB,LaCie 8TB D2 Professional for extensive and professional-grade storage needs.
+42,LACIE 8TB ONE BIG DOC TBT 3 : (STHS8000800),HDD,External,LACIE,8TB,LaCie 8TB One Big Doc Thunderbolt 3 for high-capacity and Thunderbolt 3 connectivity.
+43,HDD SEAGATE 1TB SATA N/B -ST1000LM048,HDD,Internal,SEAGATE,1TB,Seagate 1TB SATA N/B for efficient and moderate storage solutions.
+44,SAMSUNG 1TB 870 QVO (MZ-77Q1T0BW),SSD,Internal,SAMSUNG,1TB,Samsung 1TB 870 QVO SSD for high-speed and efficient storage.
+45,SAMSUNG 1TB 980 M.2 NVME SSD (MZ-V8V1T0BW),SSD,Internal,SAMSUNG,1TB,Samsung 1TB 980 M.2 NVMe SSD offering high-speed and compact storage.
+46,SAMSUNG 1TB 990 PRO NVME (MZ-V9P1T0BW),SSD,Internal,SAMSUNG,1TB,Samsung 1TB 990 PRO NVMe delivering ultra-fast and high-capacity storage.
+47,SAMSUNG 1TB SSD 870 EVO 2.5 ( MZ-77E1T0BW ),SSD,Internal,SAMSUNG,1TB,Samsung 1TB SSD 870 EVO 2.5 for reliable and efficient storage in a standard form factor.
+48,SAMSUNG 1TB SSD 970 EVO PLUS M.2 MZ-V7S1T0BW,SSD,Internal,SAMSUNG,1TB,Samsung 1TB 970 EVO PLUS M.2 SSD offering high-speed and reliable storage in a compact design.
+49,SAMSUNG 1TB SSD 980 PRO NVME M.2 (MZ-V8P1T0BW),SSD,Internal,SAMSUNG,1TB,Samsung 1TB 980 PRO NVMe M.2 SSD for ultra-fast data transfer rates and optimal performance.
+50,SAMSUNG 1TB SSD T7 TOUCH PORTABLE (MJ-PC1T0S/WW),SSD,External,SAMSUNG,1TB,Samsung 1TB T7 TOUCH Portable SSD providing secure and portable high-capacity storage with touch authentication.
+51,SAMSUNG 1TB T7 SHIELD SSD EXT (MU-PE1T0R/WW),SSD,External,SAMSUNG,1TB,Samsung 1TB T7 SHIELD External SSD delivering robust and shielded storage for various applications.
+52,SAMSUNG 1TB T7 SSD PORTABLE (MJ-PC1T0R/WW),SSD,External,SAMSUNG,1TB,Samsung 1TB T7 Portable SSD offering compact and high-speed storage for on-the-go use.
+53,SAMSUNG 250GB 980 M.2 NVME (MZ-V8V250BW),SSD,Internal,SAMSUNG,250GB,Samsung 250GB 980 M.2 NVMe SSD for efficient and reliable storage in a compact form factor.
+54,SAMSUNG 250GB 980 PRO NVME M.2 MZ-V8P250BW,SSD,Internal,SAMSUNG,250GB,Samsung 250GB 980 PRO NVMe M.2 SSD delivering high-speed and dependable storage.
+55,SAMSUNG 2TB 870 EVO SSD MZ-77E2T0BW,SSD,Internal,SAMSUNG,2TB,Samsung 2TB 870 EVO SSD offering ample and reliable storage capacity.
+56,SAMSUNG 2TB 870QVO SSD(MZ-77Q2T0BW),SSD,Internal,SAMSUNG,2TB,Samsung 2TB 870 QVO SSD providing high-capacity storage for various applications.
+57,SAMSUNG 2TB 970 EVO PLUS MZ-V7S2T0BW,SSD,Internal,SAMSUNG,2TB,Samsung 2TB 970 EVO PLUS M.2 SSD for ultra-fast and reliable storage in a compact design.
+58,SAMSUNG 2TB 980 PRO NVME M.2 (MZ-V8P2T0BW),SSD,Internal,SAMSUNG,2TB,Samsung 2TB 980 PRO NVMe M.2 SSD delivering ultra-fast and high-capacity storage.
+59,SAMSUNG 2TB 990 PRO NVME SSD (MZ-V9P2T0BW),SSD,Internal,SAMSUNG,2TB,Samsung 2TB 990 PRO NVMe SSD offering high-speed and reliable storage for demanding applications.
+60,SAMSUNG 2TB T7 EXTERNAL SSD,SSD,External,SAMSUNG,2TB,Samsung 2TB T7 External SSD for portable and high-speed storage.
+61,SAMSUNG 2TB T7 TOUCH SSD ( MU-PC2T0K/WW),SSD,External,SAMSUNG,2TB,Samsung 2TB T7 TOUCH SSD providing secure and touch-authenticated portable storage.
+62,SAMSUNG 4TB T7 SHIELD SSD (MU-PE4T0S/WW),SSD,External,SAMSUNG,4TB,Samsung 4TB T7 SHIELD SSD delivering shielded and high-capacity storage.
+63,SAMSUNG 500GB SSD 980 PRO NVME (MZ-V8P500BW),SSD,Internal,SAMSUNG,500GB,Samsung 500GB 980 PRO NVMe SSD offering high-speed and reliable storage.
+64,SAMSUNG 500GB SSD 870 EVO - MZ V77E500BW,SSD,Internal,SAMSUNG,500GB,Samsung 500GB 870 EVO SSD providing reliable and efficient storage capacity.
+65,SAMSUNG 500GB SSD 970 EVO PLUS M.2 (MZ-V7S500BW),SSD,Internal,SAMSUNG,500GB,Samsung 500GB 970 EVO PLUS M.2 SSD for ultra-fast and reliable storage in a compact design.
+66,SAMSUNG 500GB T7 SSD PORTABLE (MJ-PC500T/WW),SSD,External,SAMSUNG,500GB,Samsung 500GB T7 Portable SSD offering compact and high-speed storage for on-the-go use.
+67,HDD SEAGATE 1TB SURVEiLLANCE - ST1000VX005,HDD,Internal,SEAGATE,1TB,Seagate 1TB Surveillance HDD for surveillance applications with optimized performance.
+68,HDD SEAGATE 2TB SURVEILLANCE- ST2000VX015,HDD,Internal,SEAGATE,2TB,Seagate 2TB Surveillance HDD offering high-capacity storage for surveillance systems.
+69,HDD SEAGATE 4TB SURVEILANCE - ST4000VX016,HDD,Internal,SEAGATE,4TB,Seagate 4TB Surveillance HDD providing ample storage for surveillance applications.
+70,HDD SEAGATE 6TB SV SKYHAWK ST6000VX009,HDD,Internal,SEAGATE,6TB,Seagate 6TB Skyhawk Surveillance HDD with optimized performance for surveillance applications.
+71,HDD SEAGATE 8TB SV DRIVE-ST8000VE001,HDD,Internal,SEAGATE,8TB,Seagate 8TB Skyhawk Surveillance Drive offering extensive storage for surveillance systems.
+72,SEAGATE 10TB SKYHAWK SV HDD ST10000VE001,HDD,Internal,SEAGATE,10TB,Seagate 10TB Skyhawk SV HDD delivering high-capacity storage for surveillance applications.
+73,SYNOLOGY DS423 4BAY NAS BOX,Other,Internal,SYNOLOGY,,SYNOLOGY DS423 4BAY NAS BOX: 4-bay NAS box for efficient network-attached storage solutions.
+74,TOSHIBA 1TB 2.5 NOTEBOOK DRIVE- HDWL110UZSVA,HDD,Internal,TOSHIBA,1TB,"TOSHIBA 1TB 2.5 NOTEBOOK DRIVE- HDWL110UZSVA: 1TB 2.5"" notebook drive for portable storage in notebooks."
+75,TOSHIBA 1TB AV HARD DRIVE(HDWV110UZSVA),HDD,Internal,TOSHIBA,1TB,TOSHIBA 1TB AV HARD DRIVE(HDWV110UZSVA): 1TB AV hard drive designed for audio and video applications.
+76,TOSHIBA 1TB CANVIO READY EXT HDD(HDTP310AK3AA),HDD,Internal,TOSHIBA,1TB,TOSHIBA 1TB CANVIO READY EXT HDD(HDTP310AK3AA): 1TB external HDD in the Canvio Ready series for easy-to-use additional storage.
+77,TOSHIBA 1TB SATA HARD DISK(HDWD110UZSVA),HDD,Internal,TOSHIBA,1TB,TOSHIBA 1TB SATA HARD DISK(HDWD110UZSVA): 1TB SATA hard disk for reliable and efficient storage.
+78,TOSHIBA 2TB AV SATA (HDWT720UZSVA),HDD,Internal,TOSHIBA,2TB,TOSHIBA 2TB AV SATA (HDWT720UZSVA): 2TB AV SATA hard drive designed for audio and video applications.
+79,"TOSHIBA 2TB CANVIO BASIC 2.5"" HDTP220AK3CA",HDD,Internal,TOSHIBA,2TB,"TOSHIBA 2TB CANVIO BASIC 2.5"" HDTP220AK3CA: 2TB Canvio Basic external HDD in a compact 2.5"" form factor."
+80,TOSHIBA 2TB SATA HDD HDWD320UZSVA 7200ROPM,HDD,Internal,TOSHIBA,2TB,TOSHIBA 2TB SATA HDD HDWD320UZSVA 7200ROPM: 2TB SATA HDD with a 7200 RPM spin speed for enhanced performance.
+81,TOSHIBA 4TB SATA HDD (HDWD240UZSVA),HDD,Internal,TOSHIBA,4TB,TOSHIBA 4TB SATA HDD (HDWD240UZSVA): 4TB SATA HDD for ample and reliable storage capacity.
+82,TOSHIBA 6TB AV ( HDWT860UZSVA),HDD,Internal,TOSHIBA,6TB,TOSHIBA 6TB AV ( HDWT860UZSVA): 6TB AV hard drive designed for audio and video applications.
+83,TOSHIBA 8TB AV (HDWT380UZSVA),HDD,Internal,TOSHIBA,8TB,TOSHIBA 8TB AV (HDWT380UZSVA): 8TB AV hard drive designed for audio and video applications.
+84,WD 10 TB AV PURPLE HDD ( WD101PURP),HDD,Internal,WESTERN DIGITAL,10TB,WD 10 TB AV PURPLE HDD ( WD101PURP): 10TB AV Purple HDD for surveillance applications.
+85,WD 1TB AV DRIVE (WD10PURZ),HDD,Internal,WESTERN DIGITAL,1TB,WD 1TB AV DRIVE (WD10PURZ): 1TB AV drive designed for surveillance systems.
+86,WD 2 TB AV DRIVE WD23PURZ,HDD,Internal,WESTERN DIGITAL,2TB,WD 2 TB AV DRIVE WD23PURZ: 2TB AV drive designed for surveillance systems.
+87,WD 4TB SATA AV DRIVE 3.5 HDD WD43PURZ,HDD,External,WESTERN DIGITAL,4TB,WD 4TB SATA AV DRIVE 3.5 HDD WD43PURZ: 4TB SATA AV drive for reliable storage in surveillance systems.
+88,WD 6TB AV HARD DRIVE -WD64PURZ,HDD,External,WESTERN DIGITAL,6TB,WD 6TB AV HARD DRIVE -WD64PURZ: 6TB AV hard drive designed for audio and video applications.
+89,WD 8TB AV DRIVE (WD8001PURP),HDD,External,WESTERN DIGITAL,8TB,WD 8TB AV DRIVE (WD8001PURP): 8TB AV drive designed for surveillance systems.
+90,WD 10 TB ULTRASTAR ENTERPRISES ( WUS721010ALE6L4),HDD,External,WESTERN DIGITAL,10TB,WD 10 TB ULTRASTAR ENTERPRISES ( WUS721010ALE6L4): 10TB Ultrastar enterprise HDD for enterprise-level storage solutions.
+91,Wd 16TB ULTRASTAR ENTERPRISE HDD,HDD,External,WESTERN DIGITAL,16TB,Wd 16TB ULTRASTAR ENTERPRISE HDD: 16TB Ultrastar enterprise HDD for high-capacity enterprise storage.
+92,WD 2TB ULTRASTAR ENTERPRISE HDD,HDD,External,WESTERN DIGITAL,2TB,WD 2TB ULTRASTAR ENTERPRISE HDD: 2TB Ultrastar enterprise HDD for enterprise-level storage solutions.
+93,WD 4TB ULTRASTAR ENTERPRISE HDD  (HUS726T4TALA6L4),HDD,External,WESTERN DIGITAL,4TB,WD 4TB ULTRASTAR ENTERPRISE HDD  (HUS726T4TALA6L4): 4TB Ultrastar enterprise HDD for reliable enterprise storage.
+94,WD 8TB ULTRASTAR ENTERPRISE  HDD,HDD,External,WESTERN DIGITAL,8TB,WD 8TB ULTRASTAR ENTERPRISE  HDD: 8TB Ultrastar enterprise HDD for enterprise-level storage solutions.
+95,WD 1TB SATA N/B DRIVE (WD10SPZX),HDD,External,WESTERN DIGITAL,1TB,WD 1TB SATA N/B DRIVE (WD10SPZX): 1TB SATA notebook drive for reliable storage in notebooks.
+96,WD 2TB RED HDD- WD20EFZX,HDD,External,WESTERN DIGITAL,2TB,WD 2TB RED HDD- WD20EFZX: 2TB Red HDD designed for NAS applications.
+97,WD 4TB (4000GB) SATA RED- WD40EFZX,HDD,External,WESTERN DIGITAL,4TB,High-capacity 4TB SATA RED HDD designed for NAS systems with the WD40EFZX model.
+98,WD 6TB RED HARD DISK -WD60EFPX,HDD,External,WESTERN DIGITAL,6TB,Reliable 6TB RED hard disk from Western Digital's WD60EFPX series.
+99,WD 8TB RED DRIVE-WD80EFZZ,HDD,External,WESTERN DIGITAL,8TB,Spacious 8TB RED drive designed for network-attached storage (NAS) with the WD80EFZZ model.
+100,SANDISK 128GB SD EXTREME PRO CARD,Other,External,WESTERN DIGITAL,128GB,SANDISK 128GB SD EXTREME PRO CARD offering high-speed and durable storage for photography and videography.
+101,SANDISK 1TB EXTREME PORTABLE SSD,SSD,External,WESTERN DIGITAL,1TB,Portable SANDISK 1TB EXTREME SSD for on-the-go storage with speed and durability.
+102,SANDISK 4TB PORTABLE EXTREME SSD E61 (1050MBPS),SSD,External,WESTERN DIGITAL,4TB,SANDISK 4TB PORTABLE EXTREME SSD E61 (1050MBPS) providing high-speed and portable storage in the E61 series.
+103,WD 1TB BLACK NVME SN850X SSD (WDS100T2X0E),SSD,Internal,WESTERN DIGITAL,1TB,WD 1TB BLACK NVME SN850X SSD (WDS100T2X0E) offering ultra-fast NVMe storage in a sleek black design.
+104,WD 1TB BLUE M.2 SSD (WDS100T3B0B),SSD,Internal,WESTERN DIGITAL,1TB,Blue-themed 1TB M.2 SSD (WDS100T3B0B) providing efficient and reliable storage in a compact form factor.
+105,WD 1TB BLUE SATA SSD (WDS100T3B0A),SSD,Internal,WESTERN DIGITAL,1TB,1TB Blue SATA SSD (WDS100T3B0A) offering high-capacity storage with reliable performance.
+106,WD 1TB GREEN SATA SSD (WDS100T3GOA),SSD,Internal,WESTERN DIGITAL,1TB,Green-themed 1TB SATA SSD (WDS100T3GOA) providing efficient and reliable storage in a green design.
+107,WD 1TB SN350 GREEN NVME SSD ( WDS100T3G0C ),SSD,Internal,WESTERN DIGITAL,1TB,1TB SN350 GREEN NVME SSD (WDS100T3G0C) delivering enhanced storage speed in the SN350 series.
+108,WD 1TB SSD BLUE SN570 NVME (WDS100T3B0C),SSD,Internal,WESTERN DIGITAL,1TB,"Blue-themed 1TB SSD (WDS100T3B0C) from the SN570 NVMe series, offering high-speed storage."
+109,WD 240 GB GREEN M.2 SSD (WDS240G3GOB),SSD,Internal,WESTERN DIGITAL,240GB,Compact 240GB GREEN M.2 SSD (WDS240G3GOB) providing efficient and reliable storage in a small form factor.
+110,WD 240GB GREEN SN350NVME SSD (WDS240G2G0C),SSD,Internal,WESTERN DIGITAL,240GB,240GB GREEN SN350 NVME SSD (WDS240G2G0C) delivering enhanced storage speed in the SN350 series.
+111,WD 240 SSD  GREEN-WDS240G3G0A,SSD,Internal,WESTERN DIGITAL,240GB,240GB GREEN SSD (WDS240G3G0A) offering efficient storage in a green design.
+112,WD 250GB BLUE SATA SSD - WDS250G3B0A,SSD,External,WESTERN DIGITAL,250GB,Blue-themed 250GB SATA SSD (WDS250G3B0A) providing reliable storage with a sleek blue design.
+113,WD 250GB SSD NVME (WDS250G3B0C),SSD,External,WESTERN DIGITAL,250GB,250GB SSD NVME (WDS250G3B0C) offering high-speed NVMe storage in a blue design.
+114,WD 250GB SSD SN350 NVME GREEN (WDS250G2G0C),SSD,External,WESTERN DIGITAL,250GB,Lightning-fast 250GB NVMe SSD for optimal performance in a sleek green design.
+115,WD 2TB ELEMENT-PSSD (WDBAYN0020BBK),SSD,External,WESTERN DIGITAL,2TB,Portable 2TB SSD with the reliability of Western Digital's ELEMENT series for on-the-go storage.
+116,WD 2 TB GREEN SATA SSD(WDS200T2GOA),SSD,External,WESTERN DIGITAL,2TB,High-capacity 2TB SATA SSD with efficient and reliable storage in a green design.
+117,WD 2TB NVME SN850X SSD BLACK (WDS200T2X0E),SSD,External,WESTERN DIGITAL,2TB,Black-themed 2TB NVMe SSD from the SN850X series for ultra-fast storage performance.
+118,WD 2TB SSD BLUE (WDS200T2B0A),SSD,External,WESTERN DIGITAL,2TB,Blue-colored 2TB SSD offering reliable and high-speed storage for various applications.
+119,WD 480GB SSD WDS480G3G0A,SSD,External,WESTERN DIGITAL,480GB,Efficient 480GB SSD providing fast and dependable storage in a compact design.
+120,WD 500 GB GREEEN SN350 NVME-WDS500G2GOC,SSD,External,WESTERN DIGITAL,500GB,"500GB NVMe SSD in a green design, part of the SN350 series for enhanced storage speed."
+121,WD 500GBSATA SSD BLUE (WDS500G3B0A),SSD,External,WESTERN DIGITAL,500GB,Blue-themed 500GB SATA SSD delivering reliable and high-capacity storage.
+122,WD 500GB SN570 NVME SSD (WDS500G3B0C),SSD,External,WESTERN DIGITAL,500GB,High-performance 500GB NVMe SSD in a sleek design from the SN570 series.
+123,WD 1TB SATA HDD (WD10EZEX),HDD,External,WESTERN DIGITAL,1TB,1TB traditional SATA HDD offering ample storage for various data needs.
+124,WD 2TB ( 2000 GB ) SATA HDD (WD20EZAZ,HDD,External,WESTERN DIGITAL,2TB,High-capacity 2TB SATA HDD providing extensive storage space for larger data sets.
+125,WD 2TB SATA 7200RPM (WD20EZBX),HDD,External,WESTERN DIGITAL,2TB,2TB SATA HDD with a 7200RPM spin speed for enhanced data access speed.
+126,WD 4TB (4000GB) SATA HDD WD40EZAZ,HDD,External,WESTERN DIGITAL,4TB,Spacious 4TB SATA HDD for ample storage capacity in the WD40EZAZ series.
+127,WD 1TB ELEMENTS 2.5 PORT DRIVE,HDD,External,WESTERN DIGITAL,1TB,1TB portable drive from the ELEMENTS series providing convenient storage on the go.
+128,"WD 1TB MY PASSPORT 2.5""  WDBYVG0010BBK-WESN",HDD,External,WESTERN DIGITAL,1TB,"1TB MY PASSPORT 2.5"" external drive, WDBYVG0010BBK-WESN, offering portable and reliable storage."
+129,"WD 2TB ELEMENTS 2.5"" PORTABLE DRIVE",HDD,External,WESTERN DIGITAL,2TB,2TB portable drive from the ELEMENTS series providing compact and efficient storage.
+130,"WD 2TB MY PASSPORT 2.5"" WDBYVG0020BBK-WESN",HDD,External,WESTERN DIGITAL,2TB,"2TB MY PASSPORT 2.5"" external drive, WDBYVG0020BBK-WESN, offering portable and reliable storage."
+131,"WD 4TB MY PASSPORT 2.5"" WDBPKJ0040BBK-WESN",HDD,External,WESTERN DIGITAL,4TB,"4TB MY PASSPORT 2.5"" external drive, WDBPKJ0040BBK-WESN, providing extensive portable storage."
+132,"WD 5TB MY PASSPORT 2.5"" WDBPKJ0050BBK-WESN",HDD,External,WESTERN DIGITAL,5TB,"5TB MY PASSPORT 2.5"" external drive, WDBPKJ0050BBK-WESN, offering large-capacity portable storage."
+133,WD MY BOOK 12TB (WDBBGB0120HBK-BESN),HDD,External,WESTERN DIGITAL,12TB,"High-capacity 12TB external drive from the MY BOOK series, model WDBBGB0120HBK-BESN."
+134,WD MY BOOK ESSENTIAL 4TB 3.5 USB 3.0,HDD,External,WESTERN DIGITAL,4TB,4TB external drive with USB 3.0 connectivity from the MY BOOK ESSENTIAL series.
+135,WD MYBOOK ESSENTIAL 6TB 3.5 USB 3.0,HDD,External,WESTERN DIGITAL,6TB,6TB external drive with USB 3.0 connectivity from the MYBOOK ESSENTIAL series.
+136,WD MYBOOK ESSENTIAL 8TB 3.5 USB 3.0,HDD,External,WESTERN DIGITAL,8TB,8TB external drive with USB 3.0 connectivity from the MYBOOK ESSENTIAL series.
+137,WD MY CLOUD EX2 BAY NAS BOX ( 0 TB),HDD,External,WESTERN DIGITAL,0TB,"MY CLOUD EX2 BAY NAS BOX, a network-attached storage solution without included storage capacity."

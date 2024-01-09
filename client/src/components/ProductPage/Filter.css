@@ -1,0 +1,17 @@
+.filter-form {
+  background-color: #848891;
+  margin: 50px;
+}
+
+.form-grp {
+  margin: 30px;
+}
+
+.button-grp {
+  margin: 70px;
+  display: flex;
+}
+
+.button-grp button {
+  margin-left: 30px;
+}
